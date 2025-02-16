@@ -22,4 +22,10 @@ int main(){
 * %d - it will print integer value
 * %f - it will print float value
 * %c - it will print character value
+* %s - it will print string value
+* %0.1f - it will print float value with 1 decimal point
+* %lld - it will print long long value
+* %lf - it will print double value
+* %x - it will print hexadecimal value
+* %p - it will print pointer address
 */
