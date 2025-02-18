@@ -10,11 +10,11 @@ int main()
         printf("I'll go to Cox's Bazar\n");
         if (taka >= 10000)
         {
-            printf("I'll go to Saint Marting\n");
+            printf("Then I'll go to Saint Marting\n");
         }
         else
         {
-            printf("I'll come back home\n");
+            printf("After I'll come back home\n");
         }
     }
     else
