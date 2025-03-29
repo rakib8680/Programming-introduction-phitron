@@ -1,4 +1,3 @@
-#include <stdio.h>
 
 // Write a program that inserts a given value at a specified position in an array of integers.
 
@@ -11,6 +10,7 @@
 // Output:
 // 10 100 20 30 40 50
 
+#include <stdio.h>
 int main()
 {
     int n, pos, value;
