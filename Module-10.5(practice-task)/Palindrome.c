@@ -27,11 +27,12 @@ int main()
     scanf("%s", str);
     int len = strlen(str), i = 0, j = len - 1, isPalindrome = 1;
 
-    while (i < j)
+    while (i < j)   //two pointers algorithm
     {
         if (str[i] != str[j])
         {
             isPalindrome = 0;
+            break;
         }
         i++;
         j--;
