@@ -1,4 +1,2 @@
-  // for(int i =0; i<=strlen(b); i++){ //manual way
-    //     a[k]=b[i];
-    //     k++;
-    // };
+    // printf("1- %d\n", count[1]);
+    // printf("2- %d\n", count[2]);
